@@ -7,13 +7,13 @@ from tensorflow.contrib.learn import ModeKeys
 import tensorflow.contrib.rnn as rnn
 
 SEQ_LEN = 10
-DEFAULTS = [[0.0] for x in xrange(0, SEQ_LEN)]
+DEFAULTS = [[0.0] for x in range(0, SEQ_LEN)]
 BATCH_SIZE = 20
 TIMESERIES_COL = 'rawdata'
 N_OUTPUTS = 2  # in each sequence, 1-8 are features, and 9-10 is label
 N_INPUTS = SEQ_LEN - N_OUTPUTS
 
-def read_dataset(filename, mode=ModeKey.TRAIN):
+def read_dataset(filename, mode=ModeKeys.TRAIN):
   def _input_fn():
     num_epochs = 100 if mode == ModeKeys.TRAIN else 1
     
