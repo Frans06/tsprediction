@@ -1,0 +1,8 @@
+README.md
+setup.py
+tsprediction.egg-info/PKG-INFO
+tsprediction.egg-info/SOURCES.txt
+tsprediction.egg-info/dependency_links.txt
+tsprediction.egg-info/entry_points.txt
+tsprediction.egg-info/requires.txt
+tsprediction.egg-info/top_level.txt
