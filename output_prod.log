@@ -1,0 +1,9 @@
+INFO:root:Environment variable 'ENV' not set, returning local configs.
+INFO:root:Environment variable 'ENV' not set, returning local configs.
+INFO:root:Environment variable 'ENV' not set, returning local configs.
+INFO:root:Environment variable 'ENV' not set, returning local configs.
+WARNING:root:Environment variable 'ENV' not set, returning local configs.
+INFO:root:Environment variable 'ENV' not set, returning local configs.
+INFO:__main__:Environment variable 'ENV' not set, returning local configs.
+INFO:__main__:Environment variable 'ENV' not set, returning local configs.
+INFO:__main__:Environment variable 'ENV' not set, returning local configs.
