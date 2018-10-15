@@ -1,4 +1,4 @@
-# tsprediction
+# Time series predictions
 
 # Requirements
 ```
